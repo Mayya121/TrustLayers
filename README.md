@@ -32,8 +32,8 @@ Arabic RTL user interface
 4. Technologies
 
 Python
-FastAPI
-SQLite
-HTML/CSS
-Chart.js
-AI Integration
+, FastAPI
+, SQLite
+, HTML/CSS
+, Chart.js
+, AI Integration
