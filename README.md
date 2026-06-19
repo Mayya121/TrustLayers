@@ -10,6 +10,7 @@ AI-Powered Semantic Analysis
 TrustLayer detects contradictions, calculates confidence scores, provides correction suggestions, and visualizes data quality metrics through an interactive dashboard.
 
 
+
 2. Live Demo
 
 https://trustlayer-ai-6e8z.onrender.com
@@ -24,6 +25,7 @@ Confidence score generation
 Interactive analytics dashboard
 PDF report generation
 Arabic RTL user interface
+
 
 
 
