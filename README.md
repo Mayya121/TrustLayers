@@ -19,21 +19,20 @@ https://trustlayer-ai-6e8z.onrender.com
 
 3. Key Features
 
-Real-time survey validation
-AI-powered inconsistency detection
-Confidence score generation
-Interactive analytics dashboard
-PDF report generation
-Arabic RTL user interface
+- Real-time survey validation
+- AI-powered inconsistency detection
+- Confidence score generation
+- Interactive analytics dashboard
+- PDF report generation
+- Arabic RTL user interface
 
 
 
 
 4. Technologies
-
-Python
-, FastAPI
-, SQLite
-, HTML/CSS
-, Chart.js
-, AI Integration
+- Python
+- FastAPI
+- SQLite
+- HTML/CSS
+- Chart.js
+- AI Integration
