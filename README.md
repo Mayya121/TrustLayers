@@ -1,38 +1,22 @@
-1. TrustLayer AI
+# TrustLayer AI
 
 TrustLayer AI is an intelligent survey validation platform designed to improve data quality in market research and feedback collection.
 
-The system validates survey responses in real time using a two-layer validation approach:
+The system analyzes survey responses in real time, detects inconsistencies and contradictions, and generates confidence scores using AI-powered analysis and validation rules.
 
-Rule-Based Validation Engine
-AI-Powered Semantic Analysis
-
-TrustLayer detects contradictions, calculates confidence scores, provides correction suggestions, and visualizes data quality metrics through an interactive dashboard.
-
-
-
-2. Live Demo
-
+## Live Demo
 https://trustlayer-ai-6e8z.onrender.com
 
-
-
-3. Key Features
-
+## Project Features
 - Real-time survey validation
-- AI-powered inconsistency detection
+- Contradiction detection
 - Confidence score generation
-- Interactive analytics dashboard
-- PDF report generation
-- Arabic RTL user interface
+- Data quality assessment
+- Interactive dashboard and analytics
 
-
-
-
-4. Technologies
+## Technologies Used
 - Python
 - FastAPI
 - SQLite
 - HTML/CSS
-- Chart.js
 - AI Integration
